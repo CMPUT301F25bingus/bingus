@@ -1,4 +1,6 @@
 package com.example.bingus;
 
-public class Circle {
+public class Circle extends Shape{
+
+
 }
