@@ -1,2 +1,1 @@
-name: maansi sharma
-CCID: maansi1
+maansi sharma: maansi1
